@@ -104,6 +104,8 @@ console.log(my1.toUpperCase())  //used() because it's function, can check in con
 console.log(my1.charAt(2))     //l
 console.log(my1.indexOf('o'))  //3
 
+// ********************************************************* //
+
 const myName = "Akmnsha"
 
 const newName = myName.substring(0,4)  //Akmn
